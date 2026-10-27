@@ -1,0 +1,15 @@
+# UE5 junk folders — huge, no readable code inside
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Content/
+
+# IDE / OS junk
+.vs/
+.vscode/
+*.sln
+*.suo
+.DS_Store
+Thumbs.db
